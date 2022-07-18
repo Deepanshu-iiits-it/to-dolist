@@ -20,8 +20,7 @@ To complete a todo, run
 To show usage, run
 ```python todo.py help
    #or
-   python todo.py
-   ```
+   python todo.py```
  
 To see Statistics, run
 ```python todo.py report```
