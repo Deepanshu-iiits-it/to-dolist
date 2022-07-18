@@ -18,9 +18,7 @@ To complete a todo, run
 ```python todo.py done NUMBER```
  
 To show usage, run
-```python todo.py help
-   #or
-   python todo.py```
+```python todo.py help``` or ```python todo.py```
  
 To see Statistics, run
 ```python todo.py report```
